@@ -1,0 +1,45 @@
+Ibuprofen
+Fever
+13.95
+Advil
+Fever
+18.99
+Mucinex
+Cough
+14.97
+Buckleys
+Cough
+16.49
+Mortin
+Fever
+13.99
+Tylenol Cold
+Cold
+16.99
+Benlyin DM
+Cough
+11.49
+Robitussin DM
+Cough
+9.99
+NyQuil
+Cold
+14.49
+A-535 Gel
+Pain
+9.49
+Pepto Bismol
+Gas/Acidity
+8.47
+Naproxyn
+Pain
+11.0
+Zyrtec
+Allergy
+30.0
+Claritin
+Allergy
+24.99
+Robexacet
+Pain
+17.99

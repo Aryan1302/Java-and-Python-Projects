@@ -1,0 +1,79 @@
+26
+Tylenol Cold
+Cold
+16.99
+Advil Cold
+Cold
+20.99
+Sudafed
+Cold
+9.99
+NyQuil
+Cold
+14.49
+Tylenol
+Fever
+16.99
+Mortin
+Fever
+13.99
+Advil
+Fever
+18.99
+Ibuprofen
+Fever
+13.95
+Reactine
+Allergy
+23.99
+Allegra
+Allergy
+16.99
+Benadryl
+Allergy
+14.99
+Zyrtec
+Allergy
+30.00
+Claritin
+Allergy
+24.99
+Mucinex
+Cough
+14.97
+Benlyin DM
+Cough
+11.49
+Robitussin DM
+Cough
+9.99
+Buckleys
+Cough
+16.49
+Advil
+Pain
+18.99
+Mortin
+Pain
+16.99
+Naproxyn
+Pain
+11.00
+Robexacet
+Pain
+17.99
+Voltaren Gel
+Pain
+16.49
+A-535 Gel
+Pain
+9.49
+Zantac
+Gas/Acidity
+27.00
+Pepto Bismol
+Gas/Acidity
+8.47
+ENO Gas Relief
+Gas/Acidity
+3.99
